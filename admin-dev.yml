@@ -13,4 +13,4 @@ eureka:
 env: dev
 test:
   user: czq
-  pwd: 123
+  pwd: 12
