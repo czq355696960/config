@@ -1,0 +1,9 @@
+zuul:
+  routes:
+    admin:
+      path: /admin/**
+      serviceId: admin
+      #取消header过滤
+      sensitiveHeaders:
+  #简洁写法
+#    admin: /admin/**
