@@ -7,3 +7,6 @@ zuul:
       sensitiveHeaders:
   #简洁写法
 #    admin: /admin/**
+#排除某些路由
+#  ignored-patterns:
+#    - /**/test1
