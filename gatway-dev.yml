@@ -8,5 +8,5 @@ zuul:
   #简洁写法
 #    admin: /admin1/**
 #排除某些路由
-#  ignored-patterns:
- #   - /**/test
+  ignored-patterns:
+    - /**/test1
