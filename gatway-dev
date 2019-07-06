@@ -6,7 +6,7 @@ zuul:
       #取消header过滤
       sensitiveHeaders:
   #简洁写法
-#    admin: /admin/**
+#    admin: /admin1/**
 #排除某些路由
 #  ignored-patterns:
 #    - /**/test1
